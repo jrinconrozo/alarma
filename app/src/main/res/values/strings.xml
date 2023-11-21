@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecordatorioApp</string>
+    <string name="txtdroga">Nombre del medicamento</string>
+    <string name="txtdescripcion">Prescripcion</string>
+    <string name="hora">Hora</string>
+    <string name="minuto">Minutos</string>
+    <string name="txtinfo">ESTABLECER ALARMA</string>
+    <string name="btnalarma">GUARDAR</string>
+    <string name="txtguarda">ALARMAS GUARDADAS</string>
+    <string name="cantalarmas">ALARMAS</string>
+</resources>
